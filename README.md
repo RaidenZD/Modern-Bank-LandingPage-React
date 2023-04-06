@@ -1,3 +1,7 @@
+#About Project
+In This project I used React.JS and Tailwind.
+This Project is responsive in all devices.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
