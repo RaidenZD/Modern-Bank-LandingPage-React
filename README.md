@@ -1,5 +1,5 @@
 # About Project
-In This project I used React.JS for creating UI and Tailwind css for styling.
+In This project I used React.JS for creating UI and Tailwind css for styling.\
 This Project is responsive in all devices.
 
 # Getting Started with Create React App
