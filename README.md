@@ -1,8 +1,10 @@
 # About Project
-In This project I used:\
--React.JS for creating UI.\
--Tailwind css for styling.\
+This is a modern landing page design for a imaginary bank called HOOBank!\
 This Project is responsive in all devices.
+## In This project I used:
+-React JS for creating the UI.\
+-Tailwind Css for styling.
+
 
 # Getting Started with Create React App
 
